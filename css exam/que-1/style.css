@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;    
+}
+
+.main{
+    font-weight: bolder;
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.cont>img{
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+}
+
+p{
+    word-spacing: 12px;
+    color:rgb(131, 235, 13);
+}
+

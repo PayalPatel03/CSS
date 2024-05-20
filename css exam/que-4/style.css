@@ -1,0 +1,33 @@
+.testimonial-heading>h2{
+    color: aqua;
+    text-transform: capitalize;
+    margin-left: 20px;
+   }
+   
+   .testimonial-heading>h1{
+     text-transform: capitalize;
+     margin-left: 20px;
+     color: darkcyan;
+   }
+
+#testimonial-cont>h2{
+    color: skyblue;
+}
+
+p{
+    color:darkcyan;
+}
+
+body{
+    background-color: beige;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+h1{
+    color:coral;
+}

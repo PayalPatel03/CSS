@@ -1,0 +1,50 @@
+
+  /* navigation */
+  
+  .navigation {
+    background-color: salmon;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px;
+    font-size: 0.8rem;
+  }
+  .nav {
+    display: flex;
+  }
+  
+  
+  .nav-icon {
+    color: white;
+    display: flex;
+    gap: 20px;
+  }
+  
+  li {
+    list-style: none;
+    color: aliceblue;
+  }
+  
+  .menu {
+    display: inline-block;
+    padding: 10px ;
+    text-align: center;
+  }
+
+  a {
+    text-decoration: none;
+    color: aliceblue;
+    text-transform: capitalize;
+  }
+  
+  .item {
+    display: none;
+    position: absolute;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: plum;
+  }
+  
+  .dropdown:hover .item {
+    display: block;
+  }
